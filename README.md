@@ -1,2 +1,2 @@
 # Titanic_Survival_Exploration
-Machine Learning Program in Udacity
+Machine Learning Engineer Nanodegree Program in Udacity
